@@ -1,0 +1,22 @@
+/***************************Tag selectors********************/
+
+
+h1
+{
+  color :  blue;
+
+}
+/*
+img{
+  background-color: red;
+}
+*/
+/***************************************CLASS SELECTORS********************/
+.fries
+{
+  background-color: grey;
+}
+.broccoli
+{
+  background-color: blue;
+}
